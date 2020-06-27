@@ -1,5 +1,5 @@
 import random
-from user import User
+from usercredentials import Usercredentials
 
 """
 Import random to help us generate random passwords for our password locker
