@@ -8,3 +8,6 @@ This application helps a user get a password for any account they want. The pass
 python 3.6
 ##### Known Bugs
 No known bugs
+### Contact Details 
+**[Alisha Kavene](https://github.com/alishakavene)**
+Email me @akmunywoki@gmail.com
