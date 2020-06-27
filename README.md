@@ -6,3 +6,5 @@ Alisha Kavene
 This application helps a user get a password for any account they want. The password is secure and reliable. This application can be accessed at the terminal.
 #### Prerequisites
 python 3.6
+##### Known Bugs
+No known bugs
