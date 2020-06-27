@@ -10,4 +10,7 @@ python 3.6
 No known bugs
 ### Contact Details 
 **[Alisha Kavene](https://github.com/alishakavene)**
-Email me @akmunywoki@gmail.com
+
+ * Email me @akmunywoki@gmail.com
+ ### LICENSE
+ MIT (c) 2020 **[Alisha Kavene](https://github.com/alishakavene)**
