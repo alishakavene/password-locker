@@ -5,7 +5,7 @@ from usercredentials import Usercredentials
 Import random to help us generate random passwords for our password locker
 Random is a python package.A package is one or more modules that help us perfom a particular task.
 """
-print("Hello 👋,  Welcome to Password Locker 💪")
+print("Hello 👋, Welcome to Password Locker 💪")
 print("Password Suggestion:")
 def password(length):
     """
