@@ -8,6 +8,9 @@ Alisha Kavene
 ### Description
 This application helps a user get a password for any account they want. The password is secure and reliable. This application can be accessed at the terminal.
 
+## Setup/Installastion 
+* Clone this repository and run the run.py file
+
 #### Prerequisites
 python 3.6
 
