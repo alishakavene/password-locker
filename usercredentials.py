@@ -2,12 +2,12 @@ class Usercredentials:
 
     """docstring for ."""
 
-    def __init__(self,user_name,password):
+    def __init__(self,username,password):
         self.username = username
         self.password = password
 
-        def save_user(self):
+        def saveuser(self):
             '''
             docstring
             '''
-            User.user_list.append(self)
+            User.userlist.append(self)
